@@ -4,7 +4,7 @@ This is a FastAPI-based backend that stores user chats, retrieves them, and gene
 
 ## Features
 - ✅ Store & retrieve chat messages
-- ✅ Chat summarization using an LLM(Tried 5 Hours on this But at last its now working)
+- ✅ Chat summarization using an LLM(Tried 5 Hours on this But at last its not working)
 - ✅ Pagination for efficient chat retrieval(Its not showing on the fastAPI(Swagger UI))
 - ✅ Optimized CRUD operations with PostgreSQL
 
